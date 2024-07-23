@@ -5,10 +5,23 @@ sections:
   - type: HeroSection
     title: Elevate Your Online Presence with AdBoost Solutions
     subtitle: 'Expert SEO, Marketing, and Affiliate Promotion Services'
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: >+
+      **Unlock Your Digital Potential with AdBoost Solutions**
+
+
+      At AdBoost Solutions, we specialize in transforming your online presence
+      with expert SEO strategies, cutting-edge marketing techniques, and
+      powerful affiliate promotions. Whether you're looking to enhance your
+      search engine rankings, optimize your marketing campaigns, or drive more
+      revenue through affiliate links, our team of professionals is here to help
+      you achieve your goals.
+
+
+      **Start building your success today and explore how our tailored solutions
+      can elevate your business.**
+
+
+
     actions:
       - type: Button
         label: Start Building
