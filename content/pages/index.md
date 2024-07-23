@@ -37,7 +37,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/1981-digital-bf9sZBcGQl4-unsplash.jpg
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
